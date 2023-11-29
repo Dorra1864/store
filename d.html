@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" href="b.css">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DORRA'S STORE</title>
+</head>
+<body style="background-image: url('shoe.jpg'); background-repeat: no-repeat; background-position-x: center; ">
+ 
+      
+    <script>
+        function doConfirm1() {
+         if(confirm('really?')) {
+             window.location.href = "./adidas.html";
+         }
+         else {
+             return false;
+         }
+    }
+
+       function doNike(){
+        if(confirm('really?')) {
+             window.location.href = "./nike.html";
+         }
+         else {
+             return false;
+         }
+       }
+       function doPuma(){
+        if(confirm('really?')) {
+             window.location.href = "./puma.html";
+         }
+         else {
+             return false;
+         }
+       }
+       function doPeak(){
+        if(confirm('really?')) {
+             window.location.href = "./peak.html";
+         }
+         else {
+             return false;
+         }
+       }
+       function doAsics(){
+        if(confirm('really?')) {
+             window.location.href = "./asics.html";
+         }
+         else {
+             return false;
+         }
+       }
+       function doNewBalance(){
+        if(confirm('really?')) {
+             window.location.href = "./newBalance.html";
+         }
+         else {
+             return false;
+         }}
+       </script>
+    <CENTER>        
+    <h1 class="D"> DORRA'S STORE </h1>
+    </CENTER>
+<h1 class="A"> All shoes brand </h1>
+<td ><label style="font-size: 20px;" > Adidas </label></td><input type="radio" onclick=doConfirm1() name="genre" required><br>
+<td ><label style="font-size: 20px;"> Nike </label></td><input type="radio"  onclick=doNike() name="genre" required><br>
+<td ><label style="font-size: 20px;"> Puma </label></td><input type="radio"  onclick=doPuma() name="genre" required><br>
+<td ><label style="font-size: 20px;"> Peak </label></td><input type="radio"  onclick=doPeak() name="genre" required><br>
+<td ><label style="font-size: 20px;" > asics  </label></td><input type="radio" name="genre" onclick=doAsics() required><br>
+<td ><label style="font-size: 20px;"> New balance  </label></td><input type="radio" onclick=doNewBalance() name="genre" required><br>
+  
+ 
+</body>
+</html>

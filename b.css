@@ -1,0 +1,148 @@
+.D{
+    color: red;
+}
+.A{
+    color: blue;
+}
+.b{
+    color: green;
+}
+.su{
+    height: 300px;
+    width: 300px;
+}
+.ad{
+    height: 30px;
+    width: 40px;
+}
+.ff{
+    height: 30px;
+    width: 40px;
+}
+.n{
+    position: absolute;
+    left: 350px;
+    top: 5px;
+    color: white;
+}
+#six{
+  background-color: rgb(255, 255, 255);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  border-radius: 8px;
+  overflow: hidden;
+  position: absolute;
+  margin: 20px;
+  width: 600px;
+  top: 90px;
+  left: 40px;
+}
+#so{
+    background-color: rgb(255, 255, 255);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+    overflow: hidden;
+    position: absolute;
+    margin: 10px;
+    width: 650px;
+    top: 85px;
+    left: 700px;
+  }
+  #ta{
+    background-color: rgb(255, 255, 255);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+    overflow: hidden;
+    position: absolute;
+    margin: 10px;
+    width: 650px;
+    top: 85px;
+    left: 700px;
+  }
+  #ni{
+    background-color: rgb(255, 255, 255);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+    overflow: hidden;
+    position: absolute;
+    margin: 10px;
+    width: 650px;
+    top: 60px;
+    left: 100px;
+  }
+  #jo{
+    background-color: rgb(255, 255, 255);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+    overflow: hidden;
+    position: absolute;
+    margin: 10px;
+    width: 650px;
+    top: 60px;
+    left: 700px;
+  }
+  #pu{
+    background-color: rgb(255, 255, 255);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+    overflow: hidden;
+    position: absolute;
+    margin: 10px;
+    width: 650px;
+    top: 60px;
+    left: 35px;
+  }
+  #po{
+    background-color: rgb(255, 255, 255);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+    overflow: hidden;
+    position: absolute;
+    margin: 10px;
+    width: 650px;
+    top: 60px;
+    left: 700px;
+  }
+  #ba{
+    background-color: rgb(255, 255, 255);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+    overflow: hidden;
+    position: absolute;
+    margin: 10px;
+    width: 650px;
+    top: 60px;
+    left: 100px;
+  }
+  #ru{
+    background-color: rgb(255, 255, 255);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+    overflow: hidden;
+    position: absolute;
+    margin: 10px;
+    width: 650px;
+    top: 60px;
+    left: 700px;
+  }
+  #no{
+    background-color: rgb(255, 255, 255);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+    overflow: hidden;
+    position: absolute;
+    margin: 10px;
+    width: 750px;
+    top: 60px;
+    left: 90x;
+  }
+  #sou{
+    background-color: rgb(255, 255, 255);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+    overflow: hidden;
+    position: absolute;
+    margin: 10px;
+    width: 750px;
+    top: 60px;
+    left: 20x;
+  }
